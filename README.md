@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **a custom operating system**
 
-- 📫 How to reach me **marchal1902@gmail.com**
+- 📫 How to reach me **Discord : bantorban**
 
 - ⚡ Fun fact **Im programming since over 5 years**
 
