@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Alex and I'm a from <br>Germany and specialized in Ethical hacking and trojan creation  👨‍💻</h1>
+
 
 ###
 
