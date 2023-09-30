@@ -132,6 +132,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bantorbann/Bantorbann/output/snake.svg" alt="Snake animation" />
 
 ###
