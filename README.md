@@ -45,8 +45,8 @@
   <a href="https://www.buymeacoffee.com/bantorban">Buy me a coffee</a>
 </div>
 <div align="center">
+</div>
 <h2>My Wallets</h2>
 <h3>Bitcoin = bc1q3w70d52edxmsrwcy3nvdlrvdsaj6tl9kpvmaye</h3><br>
 <h3>Ethereum = 0x09404A6cfb113d07341113A92B1A63448586270A</h3><br>
 <h3>Litecoin = LatbVXW4vNAwAn9nZjvyY2iYunRRjD9qsn</h3><br>
-</div>
