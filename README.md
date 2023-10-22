@@ -131,6 +131,6 @@
 </div>
 
 ###
-
+- Friend of me:   <a href="https://github.com/dolus0">Dolus(very autistic)<a/>  <img src="https://avatars.githubusercontent.com/u/112305210?s=48&v=4" width="30" height="30"/>
 
 ###
