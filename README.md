@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 ============================================================================================================================
 
-Web developer and tojan creator
+Web developer and trojan creator
 -------------------------------
 
 I\`ve been programming for about 5 years and im interested in hacking and trojan creating.
